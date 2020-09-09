@@ -1,7 +1,70 @@
-## Hello there 👋
+# Hello there 👋
 
-I am **Mohamed IDRISSI**, people call me **Simo**. I am a tech enthusiast & javascript lover. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
-<svg style="color:#3880FF" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Ionic icon</title><path d="M22.922 7.027l-.103-.23-.169.188c-.408.464-.928.82-1.505 1.036l-.159.061.066.155a9.745 9.745 0 0 1 .75 3.759c0 5.405-4.397 9.806-9.806 9.806-5.409 0-9.802-4.397-9.802-9.802 0-5.405 4.402-9.806 9.806-9.806 1.467 0 2.883.319 4.2.947l.155.075.066-.155a3.767 3.767 0 0 1 1.106-1.453l.197-.159-.225-.117A11.905 11.905 0 0 0 12.001.001c-6.619 0-12 5.381-12 12s5.381 12 12 12 12-5.381 12-12c0-1.73-.361-3.403-1.078-4.973zM12 6.53A5.476 5.476 0 0 0 6.53 12 5.476 5.476 0 0 0 12 17.47 5.476 5.476 0 0 0 17.47 12 5.479 5.479 0 0 0 12 6.53zm10.345-2.007a2.494 2.494 0 1 1-4.988 0 2.494 2.494 0 0 1 4.988 0z"/></svg>
+My name is **Kamel BRIKH**, and I am a full stack developer. Besides being a broad tech enthusiast, I am interessted by the JAVASCRIPT ecosystem. I am always open to collaborating on projects that could be adressed to me. So feel free to contact me.
+
+
+
+
+
+I am a developer who is passionate about stuff like deep learning and data science. Few tech that I enjoy working in are Python, C++, Plotly-Dash, PyTorch, and  AWS. I am actively looking for opportunities in Data Science. Recently, I have just started with tech-blogging!
+
+- 👨🏽‍💻 Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.
+- 🤝 Open for collaborations in deep learning, analytics and data science.
+- 😊 Willing to contribute in opensource development projects.
+- 👍 Looking for opportunities to join as an intern/full time in deep learning fields.
+- 👨 Know more about me at [Sourcerer](https://sourcerer.io/pr2tik1) 
+- 🌐 Visit my [porfolio website](https://pr2tik1.github.io/) for complete background and contact.
+
+<details open>
+<summary>🤝 <b>To connect with me</b></summary>
+
+<p align = "center">
+ 
+[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://pr2tik1.github.io/)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Pratikpkb) 
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@pratikbaitha04)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pratik-kumar04/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/pratikkumar04/)
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/pr2tik1) 
+[![Visits Badge](https://badges.pufler.dev/visits/pr2tik1/pr2tik1?style=for-the-badge)](https://github.com/pr2tik1/pr2tik1)
+
+</p>
+
+</details>
+
+---
+
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+
+<br>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pr2tik1&hide=css,java,html&theme=tokyonight">
+</p>
+
+</details>
+
+
+
+<details open> 
+ <summary><b>Checkout my latest Medium articles</b> :bookmark_tabs:</summary>
+ 
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pratikbaitha04/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pratikbaitha04/0" alt="Recent Article 0"></a>
+
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pratikbaitha04/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pratikbaitha04/1" alt="Recent Article 1"></a>
+
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pratikbaitha04/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pratikbaitha04/2" alt="Recent Article 2"></a>
+
+</details>
+
+
+
+
+
+
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mohamed%20IDRISSI-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-idrissi-b5a14a14/)](https://www.linkedin.com/in/mohamed-idrissi-b5a14a14/)
 [![Twitter Badge](https://img.shields.io/badge/-mohamed_idrissi-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/mohamed_idrissi)](https://twitter.com/mohamed_idrissi)
@@ -19,7 +82,7 @@ I am **Mohamed IDRISSI**, people call me **Simo**. I am a tech enthusiast & java
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearc
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearc)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
