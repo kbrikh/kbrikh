@@ -8,9 +8,10 @@ I am **Kamel**, and I am a full stack developer. Besides being a broad tech enth
 
 <p align="right">
 <a href="https://dev.to/kbrikh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="kbrik" height="25" width="45" /></a>
-<a href="https://twitter.com/kbrikh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kbrikh" height="25" width="45" /></a>
+<a href="https://twitter.com/kbrikh" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="kbrikh" height="25" width="45" /></a>
 <a href="https://linkedin.com/in/kbrikh" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="kbrikh" height="25" width="45" /></a>
 <a href="https://stackoverflow.com/users/kbrikh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="kbrikh" height="25" width="45" /></a>
+  ![:email:](mailto:kbrikh@yahoo.fr)
 </p>
 
 
@@ -43,3 +44,5 @@ I am **Kamel**, and I am a full stack developer. Besides being a broad tech enth
 <img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="45" height="25"/> 
 <img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="45" height="25"/> 
 </p>
+
+
