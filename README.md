@@ -3,15 +3,16 @@
 <!-- <img src="https://github.com/kbrikh/kbrikh/blob/master/banner-1.jpg"> -->
 ![myBanner](https://github.com/kbrikh/kbrikh/blob/master/banner-1.jpg)
 
-<p align="right"> <b>Get in Touch: </b>
+
+I am **Kamel**, and I am a full stack developer. Besides being a broad tech enthusiast, I am interessted by the JAVASCRIPT ecosystem. I am always open to collaborating on projects that could be adressed to me. So feel free to contact me. So get in touch
+
+<p align="right">
 <a href="https://dev.to/kbrikh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="kbrik" height="25" width="45" /></a>
 <a href="https://twitter.com/kbrikh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kbrikh" height="25" width="45" /></a>
 <a href="https://linkedin.com/in/kbrikh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kbrikh" height="25" width="45" /></a>
 <a href="https://stackoverflow.com/users/kbrikh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="kbrikh" height="25" width="45" /></a>
+  [<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kbrikh" height="25" width="45" />](https://linkedin.com/in/kbrikh)
 </p>
-
-I am **Kamel**, and I am a full stack developer. Besides being a broad tech enthusiast, I am interessted by the JAVASCRIPT ecosystem. I am always open to collaborating on projects that could be adressed to me. So feel free to contact me.
-
 
 
 ### Main Languages and tools:
