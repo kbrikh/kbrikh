@@ -7,11 +7,11 @@
 <a href="https://stackoverflow.com/users/kbrikh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="kbrikh" height="25" width="45" /></a>
 </p>
 
-My name is **Kamel BRIKH**, and I am a full stack developer. Besides being a broad tech enthusiast, I am interessted by the JAVASCRIPT ecosystem. I am always open to collaborating on projects that could be adressed to me. So feel free to contact me.
+I am **Kamel**, and I am a full stack developer. Besides being a broad tech enthusiast, I am interessted by the JAVASCRIPT ecosystem. I am always open to collaborating on projects that could be adressed to me. So feel free to contact me.
 
 
 
-## Main Languages:
+## Main Languages and tools:
 <p align="left"> 
 <img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="25"/> </a> 
 <img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="45" height="25"/> </a> 
@@ -19,10 +19,6 @@ My name is **Kamel BRIKH**, and I am a full stack developer. Besides being a bro
 <img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="25"/> </a> 
 <img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="25"/> </a>
 <img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="25"/> </a>
-</p>
-
-<h3 align="left">Database</h3>
-<p align="left">
 <img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="25"/>
 <img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="25"/>
 <img align="center" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="45" height="25"/>
