@@ -1,3 +1,4 @@
+<img src="https://github.com/kbrikh/kbrikh/blob/master/banner-1.jpg">
 # Hello there
 
 <p align="right"> <b>Get in Touch: </b>
