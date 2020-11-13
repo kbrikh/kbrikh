@@ -11,7 +11,7 @@ I am **Kamel**, and I am a full stack developer. Besides being a broad tech enth
 
 
 
-## Main Languages and tools:
+### Main Languages and tools:
 <p align="left"> 
 <img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="25"/> </a> 
 <img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="45" height="25"/> </a> 
@@ -24,6 +24,13 @@ I am **Kamel**, and I am a full stack developer. Besides being a broad tech enth
 <img align="center" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="45" height="25"/>
 <img align="center" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="45" height="25"/>
 <img align="center" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="45" height="25"/>
+<img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="45" height="25"/>
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="45" height="25"/>
+<img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="45" height="25"/>
+<img align="center" src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="45" height="25"/>
+<img align="center" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="45" height="25"/>
+<img align="center" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="45" height="25"/>
+<img align="center" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="45" height="25"/>
 </p>
 
 
