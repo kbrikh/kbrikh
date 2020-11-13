@@ -12,7 +12,7 @@ I am **Kamel**, and I am a full stack developer. Besides being a broad tech enth
 </p>
 
 
-### Main Languages and tools:
+### Main Languages and Tools:
 <p align="left"> 
 <img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="25"/> </a> 
 <img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="45" height="25"/> </a> 
