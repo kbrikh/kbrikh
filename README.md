@@ -63,43 +63,6 @@ I am a developer who is passionate about stuff like deep learning and data scien
 
 ---
 
-<details open>
- <summary> 😇 <b>My Github Stats</b>: </summary>
-
-<br>
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pr2tik1&hide=css,java,html&theme=tokyonight">
-</p>
-
-</details>
-
-
-
-<details open> 
- <summary><b>Checkout my latest Medium articles</b> :bookmark_tabs:</summary>
- 
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pratikbaitha04/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pratikbaitha04/0" alt="Recent Article 0"></a>
-
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pratikbaitha04/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pratikbaitha04/1" alt="Recent Article 1"></a>
-
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pratikbaitha04/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pratikbaitha04/2" alt="Recent Article 2"></a>
-
-</details>
-
-
-
-
-
-
-
-
-[![Linkedin Badge](https://img.shields.io/badge/-Mohamed%20IDRISSI-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-idrissi-b5a14a14/)](https://www.linkedin.com/in/mohamed-idrissi-b5a14a14/)
-[![Twitter Badge](https://img.shields.io/badge/-mohamed_idrissi-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/mohamed_idrissi)](https://twitter.com/mohamed_idrissi)
-[![Instagram Badge](https://img.shields.io/badge/-idrissi_007-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/idrissi_007/)](https://instagram.com/idrissi_007)
-[![Outlook Badge](http://img.shields.io/badge/-med.idrissi@outlook.com-purple?style=flat-square&logo=Microsoft%20Outlook&logoColor=white&link=mailto:med.idrissi@outlook.com)](mailto:med.idrissi@outlook.com)
-[![Gmail Badge](https://img.shields.io/badge/-midrissi.pro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:midrissi.pro@gmail.com)](mailto:midrissi.pro@gmail.com)
 
 ## ⚡ Technologies
 
