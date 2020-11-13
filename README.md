@@ -4,7 +4,8 @@
 ![myBanner](https://github.com/kbrikh/kbrikh/blob/master/banner-1.jpg)
 
 
-I am **Kamel**, and I am a full stack developer. Besides being a broad tech enthusiast, I am interessted by the JAVASCRIPT ecosystem. I am always open to collaborating on projects that could be adressed to me. So feel free to contact. So get in touch
+I am **Kamel**, and I am a full stack developer. Besides being a broad tech enthusiast, I am interessted by the JAVASCRIPT ecosystem. I am evolved in projects Development of web, hybrid and embedded applications both client and server side based mainly on technologies evolving around JavaScript (Angular, Node.Js, Ionic, Electron, ...)
+I am always open to collaborating on projects that could be adressed to me. So feel free to contact me. So get in touch
 
 <p align="right">
 <a href="https://twitter.com/kbrikh" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="kbrikh" height="25" width="45" /></a>
