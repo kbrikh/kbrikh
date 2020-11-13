@@ -1,5 +1,6 @@
-<img src="https://github.com/kbrikh/kbrikh/blob/master/banner-1.jpg">
 # Hello there
+
+[<img src="https://github.com/kbrikh/kbrikh/blob/master/banner-1.jpg">]
 
 <p align="right"> <b>Get in Touch: </b>
 <a href="https://dev.to/kbrikh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="kbrik" height="25" width="45" /></a>
