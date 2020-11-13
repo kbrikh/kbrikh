@@ -1,6 +1,6 @@
 # Hello there
 
-[<img src="https://github.com/kbrikh/kbrikh/blob/master/banner-1.jpg">]
+![<img src="https://github.com/kbrikh/kbrikh/blob/master/banner-1.jpg">]
 
 <p align="right"> <b>Get in Touch: </b>
 <a href="https://dev.to/kbrikh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="kbrik" height="25" width="45" /></a>
@@ -38,45 +38,7 @@ I am **Kamel**, and I am a full stack developer. Besides being a broad tech enth
 <img align="center" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="45" height="25"/> 
 <img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="45" height="25"/> 
 <img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="45" height="25"/> 
-</p>
-
-
----
-
-## ⚡ Technologies
-
-<h3 align="left">Frameworks</h3>
-<p align="left">
-<img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="45" height="25"/>
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="45" height="25"/>
-<img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="45" height="25"/>
-</p>
-
-<h3 align="left">Testing Tools</h3>
-<p align="left">
-<img align="center" src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="45" height="25"/>
-<img align="center" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="45" height="25"/>
-<img align="center" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="45" height="25"/>
-<img align="center" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="45" height="25"/>
-</p>
-
-<h3 align="left">Other Tools</h3>
-<p align="left">
-<img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="25"/> 
-<img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="25"/> 
-<img align="center" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="45" height="25"/> 
-<img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="45" height="25"/> 
-<img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="45" height="25"/> 
-</p>
-
-<h3 align="left">Other Languages</h3>
-<p align="left">
 <img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="45" height="25"/> 
 <img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="45" height="25"/> 
 <img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="45" height="25"/> 
-</p>
-
-<h3 align="left">Platform</h3>
-<p align="left">
-<img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="45" height="25"/>
 </p>
