@@ -33,7 +33,7 @@ I am always open to collaborating on projects that could be adressed to me. So f
 <img align="center" src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="45" height="25" title="Jasmine"/>
 <img align="center" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="45" height="25" title="Karma"/>
 <img align="center" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="45" height="25" title="Mocha.Js"/>
-<img align="center" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="45" height="25"/>
+<img align="center" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="45" height="25" title="Selenium"/>
 <img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="25" title="Docker"/> 
 <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="25" title="Git"/> 
 <img align="center" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="45" height="25" title="Jenkins"/> 
