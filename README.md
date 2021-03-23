@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css">
 # Hello there
 
 <!-- <img src="https://github.com/kbrikh/kbrikh/blob/master/banner-1.jpg"> -->
@@ -16,7 +15,6 @@ I am always open to collaborating on projects that could be adressed to me. So f
 
 ### Main Languages and Tools:
 <p align="left"> 
-  <i class="devicon-javascript-plain colored"></i>
 <img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="25" title="Javascript"/> </a> 
 <img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="45" height="25" title="Angular"/> </a> 
 <img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="25" title="Node.Js"/> </a> 
