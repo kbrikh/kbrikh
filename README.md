@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css">
 # Hello there
 
 <!-- <img src="https://github.com/kbrikh/kbrikh/blob/master/banner-1.jpg"> -->
