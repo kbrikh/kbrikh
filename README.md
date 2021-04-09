@@ -14,7 +14,7 @@ I am always open to collaborating on projects that could be adressed to me. So f
 
 
 ### Main Languages and Tools:
-<p align="left"> 
+<p align="left" lineheight="1.5rem"> 
 <img align="center" src="https://github.com/kbrikh/icons/blob/master/languages/javascript.svg" alt="javascript" width="45" height="25" title="Javascript"/> </a> 
 <img align="center" src="https://github.com/kbrikh/icons/blob/master/languages/angularjs.svg" alt="angularjs" width="45" height="25" title="Angular"/> </a> 
 <img align="center" src="https://github.com/kbrikh/icons/blob/master/languages/nodejs.svg" alt="nodejs" width="45" height="25" title="Node.Js"/> </a> 
