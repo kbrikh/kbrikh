@@ -16,7 +16,7 @@ I am always open to collaborating on projects that could be adressed to me. So f
 ### Main Languages and Tools:
 <p align="left"> 
 <img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="25" title="Javascript"/> </a> 
-<img align="center" src="https://github.com/kbrikh/icons/blob/master/icons/languages/angularjs.svg" alt="angularjs" width="45" height="25" title="Angular"/> </a> 
+<img align="center" src="https://github.com/kbrikh/icons/blob/master/languages/angularjs.svg" alt="angularjs" width="45" height="25" title="Angular"/> </a> 
 <img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="25" title="Node.Js"/> </a> 
 <img align="center" src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="25" title="Typescript"/> </a>
 <img align="center" src="https://github.com/ReactiveX/rxjs/blob/master/resources/CI-CD/logo/svg/RxJs_Logo_Basic.svg" alt="RxJs" width="45" height="25" title="RxJs"/> </a>
